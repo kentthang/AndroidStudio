@@ -1,0 +1,4 @@
+com/example/labb1java/BuildConfig.java
+ com.example.labb1java.BuildConfig
+com/example/labb1java/MainActivity.java
+ com.example.labb1java.MainActivity
