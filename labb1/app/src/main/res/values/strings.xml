@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Laboration 1.2</string>
+    <string name="namnLabel">Namn</string>
+    <string name="passLabel">Lösenord</string>
+    <string name="epostLabel">Epost</string>
+    <string name="ålderLabel">Ålder</string>
+    <string name="andersLabel">Anders</string>
+    <string name="epostExempelLabel">anders.froberg@liu.se</string>
+</resources>
